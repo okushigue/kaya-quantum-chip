@@ -14,13 +14,19 @@ The Kaya Photonic Quantum Chip: A Unified Architecture for Multi-Modal Quantum I
     Kaya’s design prioritizes scalability, room-temperature operation, and compatibility with CMOS foundry processes, positioning it as a practical platform for near-term quantum advantage in real-world applications ranging from secure telecommunications to biomedical sensing. 
 "Kaya is the world’s first open-source photonic quantum chip that unifies three quantum revolutions in one device: it computes with boson sampling, secures communications with quantum key distribution, and senses with Heisenberg-limited precision—all on a room-temperature, manufacturable chip. Fully simulated, documented, and archived with a permanent DOI, Kaya proves that quantum innovation doesn’t require a lab, a degree, or a budget—just curiosity and code. One chip. Three quantum futures."
 
-## 👤 Author
-- **Name**: Jefferson M. Okushigue  
-- **Affiliation**: Independent Researcher  
-- **Email**: [okushigue@gmail.com](mailto:okushigue@gmail.com)  
-- **ORCID**: [0009-0001-5576-605X](https://orcid.org/0009-0001-5576-605X)  
-- **GitHub**: [@okushigue](https://github.com/okushigue)
+    Kaya: An Open-Source Photonic Quantum Chip for Earth and Space   
 
+    Kaya is a unified, room-temperature photonic quantum processor that integrates quantum computing (boson sampling), secure communication (BB84 QKD), and Heisenberg-limited metrology (NOON-state interferometry) on a single, manufacturable chip. Designed for real-world deployment, Kaya operates at 300K, requires no cryogenics, and consumes minimal power — making it uniquely suited for portable devices, satellites, and space-based platforms like the International Space Station.   
+
+    Developed as an independent open-science initiative, Kaya includes fully reproducible simulations, a technical validation report, and clear fabrication-ready specifications. All materials are released under CC BY 4.0 and permanently archived with DOI and ORCID.   
+
+    One chip. Three quantum revolutions. From laptops to orbit. 
+Author: Okushigue, Jefferson M.
+Contact: okushigue@gmail.com
+Affiliation: Independent Researcher
+ORCID https://orcid.org/0009-0001-5576-605X
+Github: https://github.com/okushigue/kaya-quantum-chip
+     
 ## 📚 Citation
 If you use this work, please cite:
 
