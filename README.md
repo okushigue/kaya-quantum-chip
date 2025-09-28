@@ -12,3 +12,4 @@ The Kaya Photonic Quantum Chip: A Unified Architecture for Multi-Modal Quantum I
          
 
     Kaya’s design prioritizes scalability, room-temperature operation, and compatibility with CMOS foundry processes, positioning it as a practical platform for near-term quantum advantage in real-world applications ranging from secure telecommunications to biomedical sensing. 
+"Kaya is the world’s first open-source photonic quantum chip that unifies three quantum revolutions in one device: it computes with boson sampling, secures communications with quantum key distribution, and senses with Heisenberg-limited precision—all on a room-temperature, manufacturable chip. Fully simulated, documented, and archived with a permanent DOI, Kaya proves that quantum innovation doesn’t require a lab, a degree, or a budget—just curiosity and code. One chip. Three quantum futures."
