@@ -1,0 +1,50 @@
+{
+  "2_4": {
+    "n_photons": 2,
+    "n_modes": 4,
+    "entropy": 2.850559908913221,
+    "max_entropy": 3.321928094887362,
+    "entropy_ratio": 0.8581040370200657,
+    "tvd": 0.020171363638041544,
+    "chi2_pvalue": 0.0,
+    "coverage": 1.0,
+    "computation_time": 0.231289454999569,
+    "plot_file": "kaya_bs_2p_4m_20251006_190130.png"
+  },
+  "3_6": {
+    "n_photons": 3,
+    "n_modes": 6,
+    "entropy": 5.068071473128167,
+    "max_entropy": 5.807354922057604,
+    "entropy_ratio": 0.8726987658147985,
+    "tvd": 0.05990867294329229,
+    "chi2_pvalue": 0.0,
+    "coverage": 0.9821428571428571,
+    "computation_time": 0.24113643399959983,
+    "plot_file": "kaya_bs_3p_6m_20251006_190130.png"
+  },
+  "3_8": {
+    "n_photons": 3,
+    "n_modes": 8,
+    "entropy": 5.951440310180265,
+    "max_entropy": 6.906890595608519,
+    "entropy_ratio": 0.861667088510749,
+    "tvd": 0.08454572311214785,
+    "chi2_pvalue": 0.0,
+    "coverage": 0.9,
+    "computation_time": 0.24948063299962087,
+    "plot_file": "kaya_bs_3p_8m_20251006_190130.png"
+  },
+  "4_8": {
+    "n_photons": 4,
+    "n_modes": 8,
+    "entropy": 7.580085743662125,
+    "max_entropy": 8.366322214245816,
+    "entropy_ratio": 0.906023644505955,
+    "tvd": 0.14033565299846998,
+    "chi2_pvalue": 5.687343568489128e-292,
+    "coverage": 0.8727272727272727,
+    "computation_time": 0.25315104899982543,
+    "plot_file": "kaya_bs_4p_8m_20251006_190131.png"
+  }
+}
