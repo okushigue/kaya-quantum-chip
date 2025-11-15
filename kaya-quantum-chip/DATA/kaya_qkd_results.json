@@ -1,0 +1,20 @@
+{
+  "n_bits_prepared": 256,
+  "n_bits_detected": 21,
+  "detection_rate": 0.08203125,
+  "n_bits_sifted": 10,
+  "sifting_efficiency": 0.47619047619047616,
+  "errors": 1,
+  "qber": 0.1,
+  "secure": true,
+  "security_level": "\ud83d\udea8 BORDERLINE (QBER < 11%)",
+  "final_key_length": 0,
+  "final_key": "",
+  "key_rate_bits_per_photon": 0.0,
+  "dark_counts": 0,
+  "parameters": {
+    "fiber_length_km": 50,
+    "channel_loss_db": 10.0,
+    "detector_efficiency": 0.85
+  }
+}

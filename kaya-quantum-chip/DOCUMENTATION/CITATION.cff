@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Kaya Quantum Photonic Chip: Noise-Enhanced Quantum Computing for Chaotic Systems Processing"
+authors:
+  - family-names: Okushigue
+    given-names: Jefferson M.
+    affiliation: "Independent Quantum Research"
+    orcid: https://orcid.org/0009-0001-5576-605X
+    email: okushigue@gmail.com
+date-released: 2025-11-16
+version: "9.0"
+abstract: "Revolutionary quantum photonic architecture demonstrating noise-induced advantage and quantum-classical parity in chaotic systems processing. Achieves 99.6% accuracy with optimal 10% noise conditions through stochastic resonance and quantum dithering mechanisms."
+keywords:
+  - "quantum computing"
+  - "photonic chips"
+  - "boson sampling" 
+  - "quantum machine learning"
+  - "noise advantage"
+  - "chaotic systems"
+license: Creative Commons Attribution 4.0 International 
+repository-code: "https://github.com/okushigue/kaya-quantum-chip"

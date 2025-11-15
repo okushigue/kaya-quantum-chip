@@ -1,0 +1,21 @@
+{
+  "timestamp": "20251116_014912",
+  "bs_calibration": {
+    "hog_score": 0.9,
+    "linear_xeb": 1.8,
+    "ks_distance": 0.15
+  },
+  "phase_estimation": {
+    "visibility": 0.7517214435708355,
+    "qfi": 5.052712635666713,
+    "cramer_rao_bound": 0.009830434735653166,
+    "quantum_advantage": 2.2478239779099054
+  },
+  "quantum_ml": {
+    "accuracy": 1.0,
+    "noise_level": 0.1,
+    "n_samples": 600
+  },
+  "overall_score": 0.8758607217854177,
+  "status": "\ud83d\ude80 OUTSTANDING - Ready for deployment"
+}

@@ -1,0 +1,81 @@
+# 🌌 KAYA QUANTUM CHIP - Conda Environment
+name: kaya-quantum-chip
+channels:
+  - conda-forge
+  - defaults
+  - pytorch
+  - nvidia  # (opcional, para GPU support)
+
+dependencies:
+  # Python
+  - python=3.10
+  
+  # Core Quantum
+  - qiskit=1.0.0
+  - qiskit-aer=0.12.0
+  - qiskit-ibm-runtime=0.12.0
+  - qiskit-machine-learning=0.6.0
+  
+  # Scientific Stack
+  - numpy=1.24.0
+  - scipy=1.10.0
+  - pandas=2.0.0
+  - scikit-learn=1.2.0
+  
+  # Machine Learning
+  - tensorflow=2.12.0
+  - pytorch=2.0.0
+  - torchvision=0.15.0
+  - pytorch-cuda=11.8  # (opcional)
+  - xgboost=1.7.0
+  - lightgbm=3.3.0
+  
+  # Visualization
+  - matplotlib=3.7.0
+  - seaborn=0.12.0
+  - plotly=5.13.0
+  - bokeh=3.0.0
+  - ipywidgets=8.0.0
+  
+  # Chaotic Systems
+  - nolds=0.5.2
+  - pyts=0.12.0
+  
+  # Utilities
+  - tqdm=4.65.0
+  - joblib=1.2.0
+  - psutil=5.9.0
+  
+  # Jupyter & Development
+  - jupyter=1.0.0
+  - ipython=8.12.0
+  - notebook=6.5.0
+  - jupyterlab=3.6.0
+  
+  # Performance
+  - numba=0.57.0
+  - dask=2023.3.0
+  
+  # Quantum Chemistry
+  - pyscf=2.2.0
+  
+  # Testing & Code Quality
+  - pytest=7.3.0
+  - black=23.3.0
+  - flake8=6.0.0
+  - mypy=1.2.0
+  
+  # Documentation
+  - sphinx=6.0.0
+  - nbsphinx=0.9.0
+  
+  # System Libraries (para performance)
+  - mkl=2023.0.0
+  - intel-openmp=2023.0.0
+  
+  # Pip-only packages
+  - pip
+  - pip:
+      - chaos==0.1.2  # Disponível apenas via pip
+      - qutip==4.7.0  # Quantum toolbox
+      - perceval==0.9.0  # Photonic quantum computing
