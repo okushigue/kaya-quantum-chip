@@ -1,21 +1,21 @@
 # 🌌 KAYA QUANTUM CHIP - Requirements
 # Core Quantum Computing
-qiskit==1.0.0
+qiskit==1.4.2
 qiskit-aer==0.12.0
-qiskit-ibm-runtime==0.12.0
+qiskit-ibm-runtime==0.21.2
 qiskit-machine-learning==0.6.0
 
 # Scientific Computing
 numpy==1.24.0
 scipy==1.10.0
 pandas==2.0.0
-scikit-learn==1.2.0
+scikit-learn==1.5.0
 
 # Machine Learning & Optimization
-tensorflow==2.12.0
-torch==2.0.0
+tensorflow==2.12.1
+torch==2.8.0
 xgboost==1.7.0
-lightgbm==3.3.0
+lightgbm==4.6.0
 
 # Visualization
 matplotlib==3.7.0
@@ -29,7 +29,7 @@ nolds==0.5.2
 pyts==0.12.0
 
 # Utilities
-tqdm==4.65.0
+tqdm==4.66.3
 joblib==1.2.0
 psutil==5.9.0
 
@@ -47,5 +47,5 @@ pyscf==2.2.0
 
 # Version control for reproducibility
 pytest==7.3.0
-black==23.3.0
+black==24.3.0
 flake8==6.0.0
